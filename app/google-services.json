@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912341028044",
+    "firebase_url": "https://pdefault-1232e1-default-rtdb.firebaseio.com",
+    "project_id": "default-123123e1",
+    "storage_bucket": "default-123123e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9312318044:android:79a47a7512132234938589da9",
+        "android_client_info": {
+          "package_name": "com.rejfin.pricehunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93123028044-ot2piasd123e0ok03og3jpl58vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "A1dsaDD123e123xkU41vp_viqky3ZCio10Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93123124544-ot2piasdwqdk03og3jpl58vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
