@@ -1,0 +1,26 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory
+        android:title="@string/config_file"
+        app:iconSpaceReserved="false">
+
+        <Preference
+            android:icon="@drawable/ic_file_sett"
+            android:key="load_file"
+            android:title="@string/pick_file" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/app_name"
+        app:iconSpaceReserved="false">
+
+        <Preference
+            android:id="@+id/about_settings"
+            android:icon="@drawable/ic_info"
+            android:summary="@string/about_summary"
+            android:title="@string/about"
+            app:key="about" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

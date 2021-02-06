@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "939844028044",
+    "firebase_url": "https://pricehunter-265d1-default-rtdb.firebaseio.com",
+    "project_id": "pricehunter-262342de1",
+    "storage_bucket": "pricehunter-262342de1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93984443228044:android:79a47a75123243938589da9",
+        "android_client_info": {
+          "package_name": "com.rejfin.pricehunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939844028044-ot2pih12b4f68q64q0ok03og3jpl58vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1dRCci8cuvhxkU41vp_viqky3ZCio10Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939844028044-ot2pih12b4f68q64q0ok03og3jpl58vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

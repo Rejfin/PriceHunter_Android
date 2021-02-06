@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PriceHunter</string>
+    <!-- config file load fragment -->
+    <string name="config_file_welcome">On first run it is necessary to load firebase configuration file. If you don\'t know how to get config file, read instruction </string>
+    <string name="instruction">Instruction</string>
+    <string name="pick_file">Load File</string>
+    <string name="error_bad_file">Your file is not a standard firebase configuration file for mobile applications</string>
+
+    <!-- home fragment -->
+    <string name="choose_shop">Select shop</string>
+    <string name="failed_download_message">Failed to retrieve information from the database</string>
+    <string name="failed">Data download failure</string>
+    <string name="ok">OK</string>
+    <string name="init_error">Application failed to initialize, make sure you are connected to the Internet and your firebase config file is up to date</string>
+
+    <!-- fcm messages -->
+    <string name="fcm_message_price_alert">The price is below your desired price &gt; %1$s</string>
+    <string name="fcm_message_title">%1$s for %2$s</string>
+    <string name="error">Error</string>
+
+
+    <string name="settings">settings</string>
+    <string name="config_file">Configuration file</string>
+    <string name="about">About</string>
+    <string name="about_summary">Show application information</string>
+</resources>
